@@ -1,0 +1,19 @@
+#imagen {
+    width: 80%; 
+    height: 60vh;
+}
+
+#container {
+    text-align: center;
+}
+
+img {
+    position: relative;
+}
+
+li {
+    text-align: left;
+    position: relative;
+    left: 40%;
+}
+
